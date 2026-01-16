@@ -45,11 +45,6 @@ I believe in **"Vibe Engineering"**—the art of using advanced AI tools to tran
 * **Qatra App:** A secure, offline-first smart coaching mobile application built with Flutter.
 * **Secure Learning Management System:** A Google Classroom-like project built during challenging times, featuring secure roles for students and teachers.
 
----
-
-### 📊 My Growth & Stats
-![Jad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jadallah1455&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadallah1455&layout=compact&theme=radical&hide_border=true)
 
 ---
 
